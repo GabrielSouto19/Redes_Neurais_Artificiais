@@ -1,0 +1,13 @@
+Operador E AND
+
+atributos precasores e atributos meta
+
+Erro
+
+Algoritmo mais simples
+
+erro = respostaCorreta - RespostaCalculada
+
+Os pesos são atualizados ate os erros serem pequenos
+
+peso(n+1) = peso(n) + (taxaAprendizagem * entrada * erro)

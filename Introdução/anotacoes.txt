@@ -1,0 +1,29 @@
+Contexto 
+Problemas que são resolvidos por algoritmos pré-determinados
+(sistemas de recomendacao,busca, grafos,ordenação)
+
+Algoritmos pré-definido para reconhecimento facial?
+processamento de linguagem natural
+
+Algumas aplicações
+descoberta de novos Remédios
+Entendimento de linguagem natural
+Carros autonomos
+Reconhecimento facial
+Cura para doenças 
+Bolsa de Valores 
+Encontrar soluções para controle de trafego
+
+Não temos um algoritmo especifico para cada Problemas
+mas aplicamos redes neurais a diferentes contextos e eles conseguem se adaptar
+
+Deep learning é nada mais nada menos que um tipo de uma rede neural
+
+Redes neurais
+Imitar o sistema nervoso de humanos no professo de aprendizagem
+Inspirada em redes neurais Biologicas(não é exatamente igual)
+Parecido coma c troca de informações em uma rede Biologicas
+Com o Deep learning (Aprendizagem Profunda)
+as redes neurais ficaram populares novamente
+
+'

@@ -1,0 +1,15 @@
+peso positivo --> sinapse excitadora
+aumenta o potencial eletrico da celular --> maior chance de ativar o neuronio
+peso negativo --> sinapse inibidora
+dimiui o potencial de ativação do  neuronio
+
+pesos são sinapses
+Pesos vao aplificar ou reduzir o sinal de entrada
+
+conhecimento da rede neural são os pesos
+ou seja , oque ela vai aprender vai ser o melhor conjunto de pesos para uma determinada base de dados 
+
+
+
+
+ 

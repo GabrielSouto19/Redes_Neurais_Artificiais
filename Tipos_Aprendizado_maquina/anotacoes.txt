@@ -1,0 +1,24 @@
+3 tipos de aprendizado
+
+Supervisionada 
+
+Não supervisoinada
+
+Por reforço
+
+
+Aprendizado não supervisionado
+
+Analisar automaticamente os dados associação,agrupamento 
+
+necessita analise para determinar o significado dos padrões encontrados
+
+Aprendizado por reforço
+
+aprender com as interações com o ambiente(causa e efeito)
+aprender com sua própria experiencia
+Robo coletando lixo aprendendo a andar em um ambiente
+controle automatizado de elevadores
+
+
+

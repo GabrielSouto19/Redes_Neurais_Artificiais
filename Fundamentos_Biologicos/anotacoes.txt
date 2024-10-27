@@ -1,0 +1,14 @@
+Neuronio
+
+Neuronio --> o cérebro usa para proecssar informação --> toda a estrutura
+
+Axônio : transmite o sinal de um neuronio para outro(sniais eletricos, sinapses)-conecta os neuronios
+
+Substancias Quimicas são lançadas das sinapses e entram pelo dentritos , aumentando ou baixando o potencial elétrico do corpo da celula
+
+
+O neuronio dispara se a entrada é maior que um numero definido (liga ou não liga)
+
+Fornece um valoe de entrada , a rede processa e retorna uma resposta
+
+O neuronio é ativado somente se o valor for maior que um limiar
