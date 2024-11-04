@@ -1,0 +1,23 @@
+step (Função degrau) temos somente 1 ou 0 na saida
+
+Sigmoid (Função Sigmoid) podem estar , Um pouco melhor, valores podem estar na faixa de zero ate 1 
+
+Se o X for alto o valor sera aproximadamente 1 
+Se o X for pequeno o valor sera aproximadamente 0
+
+Não retorna valores negativos
+
+
+y = 1/1+e^-x 
+
+Hyperbolic tanget (Função tangente hiperbólica)
+y = e^x - e ^-x / e^x + e^-x 
+
+Retorna valores entre -1 e 1
+
+se pesquisarmos sobre activation function no google temos tambem todos os modelos de funcoes de ativacao 
+
+
+Neuronio Sigmoid --> usam a função sigmoid mais usada e tem um bom desempenho
+
+perceptron simples usam step function

@@ -20,10 +20,19 @@ def treinar():
     while erroTotal != 0:
         erroTotal = 0
         for i in range(len(saidas)):
-            calculo = calcular_saida(entradas[i])
-            print(f"Entradas -> {entradas[i]} saidas Obtida -> {calculo} SaidaEsperada -> {saidas[i]}")
-            erroTotal += saidas[i] - calculo
+            saidacalculada = calcular_saida(np.asarray(entradas[i]))
+            print(f"Entradas -> {entradas[i]} saidas Obtida -> {saidacalculada} SaidaEsperada -> {saidas[i]}")
+            erro= saidas[i] - saidacalculada
+            erroTotal += erro
             print(erroTotal)
+            for x in range(len(pesos)):
+                pesos[x] = pesos[x] + (taxaAprendizagem * entradas[i][x] * erro)
+                print(f"Peso atualizado: {pesos[x]} ")
+            
+            
+            if erroTotal == 0:
+                print("\033[32mpesos ajustados com sucesso:\033[m")
+            print(f"Total de erros:{erroTotal}")
         novos_pesos = pesos
 
 

@@ -1,0 +1,35 @@
+Uma camada x multicamada (linear o não linear)
+funcoes de ativação ==> step functions
+
+Processo completo feed forward com o XOR
+
+Função do erro
+
+gradient descent (descida gradiente)
+backpropagation(retropropragação)
+
+
+Neuronio artificial chamado de perceptron 
+
+
+Perceptron de uma camada é adequado para problemas linearmente separaveis
+
+exemplo --> não conseguimos separar linearmente o a tabela do XOR
+
+porem as do and e or conseguimos tranquilamente
+
+Para resolver problemas que não conseguimos separar linearmente foi criada as redes multicamadas 
+
+multiplayer perceptron
+
+
+hidden layers(camadas ocultas)
+
+
+feed forward alimentação pra frente
+
+Fornece um valor de entrada , a rede processa e retorna uma resposta(feed forward)
+O Neuronio é ativado somente se o valor for maior que um limiar 
+
+
+
